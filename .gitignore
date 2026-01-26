@@ -1,0 +1,16 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Shader debug output
+ShaderDebugInfo/
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
